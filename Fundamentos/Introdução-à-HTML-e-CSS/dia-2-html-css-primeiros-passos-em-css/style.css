@@ -1,0 +1,25 @@
+h1{
+    font-size: 65px;
+    color: orange;
+    font-family: sans-serif;
+}
+.list-style{
+    background-color: yellow;
+    
+}
+
+p{
+    font-weight: 600;
+    font-size: 3em;
+
+}
+body{
+    font-size: 16px;
+}
+ul{
+    font-style: oblique;
+    line-height: 5ch;
+    text-align: justify;
+    text-decoration: unset;
+    color: white;
+}
