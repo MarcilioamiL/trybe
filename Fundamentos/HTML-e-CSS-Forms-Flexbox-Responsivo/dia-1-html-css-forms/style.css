@@ -1,0 +1,19 @@
+body {
+    position: absolute;
+    background-color: aqua;
+    padding: 12px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 5px;
+    font-size: 14px;
+}
+
+a:hover {
+    background-color: rgb(176, 251, 239);
+    color: green;
+}
+
+a {
+    font-size: 22px;
+}
