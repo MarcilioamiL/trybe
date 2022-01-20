@@ -163,7 +163,7 @@ const books = [
 
   // const expectedResult = false;
   // const everyoneWasBornOnSecXX = () => {
-  //   return books.every((book) => book.author.name.birthYear === 1901 ? true : false);
+  //   return books.every((book) => book.author.birthYear === 1901 ? true : false);
   // }
   // console.log(everyoneWasBornOnSecXX())
 
