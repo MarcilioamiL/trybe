@@ -29,6 +29,7 @@ class Content extends Component {
           ];
 
         return(
+            
             <div className="conteudo">
                 {conteudos.map((conteudo) => 
                 <div key={conteudo.value} className="card">
