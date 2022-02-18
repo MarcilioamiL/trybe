@@ -61,4 +61,12 @@ const books = [
     },
   ];
   
-  // Adicione o código do exercício aqui:
+  const lengthBook = () => {
+    return books.reduce((contBook, valueBooklength) => {
+      if (valueBooklength.name.length < contBook.name.length) {
+        return contBook;
+      }
+      return valueBooklength;
+    })
+  }
+  console.log(lengthBook())
